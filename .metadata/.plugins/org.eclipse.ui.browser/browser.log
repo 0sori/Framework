@@ -1,0 +1,235 @@
+
+4월 25, 2023 17:10:38.655 NEW SESSION
+4월 25, 2023 17:10:38.655 [2524:4420:0425/171038.640:ERROR:device_event_log_impl.cc(222)] [17:10:38.641] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 25, 2023 17:10:38.657 [2524:4420:0425/171038.642:ERROR:device_event_log_impl.cc(222)] [17:10:38.643] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 25, 2023 17:10:38.867 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2023 17:19:08.471 [2524:8452:0425/171908.471:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 25, 2023 17:19:11.660 [2524:8452:0425/171911.660:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+4월 25, 2023 17:19:31.824 [2524:8452:0425/171931.823:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+4월 25, 2023 17:54:24.463 [4944:15336:0425/175424.462:ERROR:device_event_log_impl.cc(222)] [17:54:24.462] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 25, 2023 17:54:24.464 [4944:15336:0425/175424.464:ERROR:device_event_log_impl.cc(222)] [17:54:24.463] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 25, 2023 17:54:24.554 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2023 18:21:12.334 [4944:11696:0425/182112.334:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 25, 2023 18:45:40.666 [4944:11696:0425/184540.666:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+4월 25, 2023 18:50:49.421 [4944:11696:0425/185049.420:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 25, 2023 18:56:49.410 [4944:11696:0425/185649.409:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 25, 2023 19:41:42.109 [4944:15336:0425/194142.109:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+
+4월 28, 2023 17:57:11.345 NEW SESSION
+4월 28, 2023 17:57:11.346 [31008:33008:0428/175711.342:ERROR:device_event_log_impl.cc(222)] [17:57:11.343] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 28, 2023 17:57:11.346 [31008:33008:0428/175711.344:ERROR:device_event_log_impl.cc(222)] [17:57:11.344] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+4월 28, 2023 17:57:11.690 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 28, 2023 18:53:56.358 [31008:9904:0428/185356.357:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 18:59:49.373 [31008:9904:0428/185949.372:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+4월 28, 2023 19:27:52.29 [31008:9904:0428/192752.029:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 19:33:53.764 [31008:9904:0428/193353.763:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 19:34:41.656 [31008:9904:0428/193441.655:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -118
+4월 28, 2023 19:35:41.309 [31008:9904:0428/193541.308:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+4월 28, 2023 19:37:08.735 [31008:9904:0428/193708.734:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+4월 28, 2023 19:40:05.715 [31008:9904:0428/194005.714:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+4월 28, 2023 19:40:38.307 [31008:33008:0428/194038.306:ERROR:CONSOLE(1)] "Uncaught (in promise) SyntaxError: Unexpected token 'H', "HTTP/1.1 4"... is not valid JSON", source: devtools://devtools/bundled/devtools_app.html?remoteBase=https://chrome-devtools-frontend.appspot.com/serve_file/@b160f1d9e90aa6940d17d5cb44d9e815205d2024/&can_dock=true&panel=elements (1)
+4월 28, 2023 19:46:34.808 [31008:9904:0428/194634.808:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+4월 28, 2023 19:46:41.400 [31008:9904:0428/194641.400:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 19:46:44.691 [31008:9904:0428/194644.691:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+4월 28, 2023 19:46:52.920 [31008:9904:0428/194652.919:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+4월 28, 2023 19:57:28.939 [31008:9904:0428/195728.939:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 21:31:48.625 [31008:33008:0428/213148.624:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 28, 2023 21:47:53.516 [31008:9904:0428/214753.515:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+4월 28, 2023 22:16:50.617 [31008:9904:0428/221650.616:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+5월 01, 2023 14:39:52.08 [31008:33008:0501/143952.008:ERROR:device_event_log_impl.cc(222)] [14:39:52.007] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 01, 2023 14:39:52.14 [31008:33008:0501/143952.014:ERROR:device_event_log_impl.cc(222)] [14:39:52.013] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 01, 2023 14:39:52.615 [31008:9904:0501/143952.615:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 01, 2023 14:39:52.624 [31008:9904:0501/143952.624:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 01, 2023 14:39:52.644 [31008:23708:0501/143952.644:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+
+5월 01, 2023 20:26:00.302 NEW SESSION
+5월 01, 2023 20:26:00.302 [29788:14072:0501/202600.301:ERROR:device_event_log_impl.cc(222)] [20:26:00.300] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 01, 2023 20:26:00.304 [29788:14072:0501/202600.304:ERROR:device_event_log_impl.cc(222)] [20:26:00.303] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 01, 2023 20:26:00.650 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 02, 2023 15:28:23.278 [29788:17956:0502/152823.278:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 02, 2023 15:28:23.553 [29788:17956:0502/152823.553:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 02, 2023 15:28:23.557 [29788:16040:0502/152823.557:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 02, 2023 15:28:34.495 [29788:14072:0502/152834.494:ERROR:device_event_log_impl.cc(222)] [15:28:34.495] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 02, 2023 15:28:34.500 [29788:14072:0502/152834.500:ERROR:device_event_log_impl.cc(222)] [15:28:34.499] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 02, 2023 15:28:44.940 [29788:14072:0502/152844.940:ERROR:device_event_log_impl.cc(222)] [15:28:44.940] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 02, 2023 15:28:44.944 [29788:14072:0502/152844.944:ERROR:device_event_log_impl.cc(222)] [15:28:44.947] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 02, 2023 15:29:45.435 [29788:14072:0502/152945.435:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 02, 2023 15:29:51.698 [29788:14072:0502/152951.698:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 02, 2023 15:32:34.98 [29788:14072:0502/153234.097:ERROR:device_event_log_impl.cc(222)] [15:32:34.097] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 02, 2023 16:58:29.322 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+5월 02, 2023 21:44:53.866 [29788:17956:0502/214453.864:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 02, 2023 22:05:22.928 [29788:17956:0502/220522.928:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 03, 2023 15:34:26.35 [29788:14072:0503/153426.035:ERROR:device_event_log_impl.cc(222)] [15:34:26.034] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 03, 2023 15:34:26.42 [29788:14072:0503/153426.042:ERROR:device_event_log_impl.cc(222)] [15:34:26.042] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 03, 2023 15:34:26.153 [29788:14072:0503/153426.153:ERROR:device_event_log_impl.cc(222)] [15:34:26.155] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 03, 2023 15:34:26.164 [29788:14072:0503/153426.163:ERROR:device_event_log_impl.cc(222)] [15:34:26.163] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 03, 2023 15:34:26.700 [29788:17956:0503/153426.700:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 03, 2023 15:34:26.700 [29788:17956:0503/153426.700:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 03, 2023 15:34:26.700 [29788:14808:0503/153426.700:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 03, 2023 15:34:55.865 [29788:17956:0503/153455.865:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 03, 2023 15:35:02.607 [29788:14072:0503/153502.607:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+5월 03, 2023 15:35:25.813 [29788:17956:0503/153525.813:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 03, 2023 15:35:38.382 [29788:17956:0503/153538.382:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 03, 2023 15:35:55.250 [29788:17956:0503/153555.250:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 03, 2023 15:36:08.182 [29788:17956:0503/153608.182:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 03, 2023 15:36:09.214 [29788:14072:0503/153609.213:ERROR:device_event_log_impl.cc(222)] [15:36:09.213] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 03, 2023 15:36:10.252 [29788:17956:0503/153610.252:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 03, 2023 15:36:26.313 [29788:17956:0503/153626.312:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 03, 2023 21:05:44.421 [29788:14072:0503/210544.420:ERROR:device_event_log_impl.cc(222)] [21:05:44.421] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 03, 2023 21:05:44.427 [29788:14072:0503/210544.427:ERROR:device_event_log_impl.cc(222)] [21:05:44.427] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 03, 2023 21:05:44.542 [29788:14072:0503/210544.541:ERROR:device_event_log_impl.cc(222)] [21:05:44.542] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 03, 2023 21:05:44.550 [29788:14072:0503/210544.550:ERROR:device_event_log_impl.cc(222)] [21:05:44.549] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 03, 2023 21:23:17.318 [29788:14072:0503/212317.317:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 03, 2023 21:44:32.788 [29788:17956:0503/214432.787:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 04, 2023 15:28:40.38 [29788:17956:0504/152839.940:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+5월 04, 2023 15:28:40.846 [29788:14072:0504/152840.846:ERROR:device_event_log_impl.cc(222)] [15:28:40.837] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 04, 2023 15:28:40.849 [29788:14072:0504/152840.848:ERROR:device_event_log_impl.cc(222)] [15:28:40.843] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 04, 2023 15:28:40.849 [29788:14072:0504/152840.849:ERROR:device_event_log_impl.cc(222)] [15:28:40.846] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 04, 2023 15:28:40.852 [29788:14072:0504/152840.851:ERROR:device_event_log_impl.cc(222)] [15:28:40.852] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 04, 2023 15:28:42.22 [29788:17956:0504/152842.022:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 04, 2023 15:28:42.23 [29788:11496:0504/152842.023:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 04, 2023 15:28:46.737 [29788:17956:0504/152846.736:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 04, 2023 15:28:46.738 [29788:14808:0504/152846.737:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 04, 2023 17:04:14.867 [29788:14072:0504/170414.866:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint (unset) for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.247 [29788:14072:0504/170415.247:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.356 [29788:14072:0504/170415.356:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.465 [29788:14072:0504/170415.465:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.585 [29788:14072:0504/170415.584:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.727 [29788:14072:0504/170415.727:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:15.961 [29788:14072:0504/170415.961:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:16.332 [29788:14072:0504/170416.331:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:16.479 [29788:14072:0504/170416.479:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:16.614 [29788:14072:0504/170416.614:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:16.794 [29788:14072:0504/170416.794:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.12 [29788:14072:0504/170417.012:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.250 [29788:14072:0504/170417.248:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.399 [29788:14072:0504/170417.399:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.563 [29788:14072:0504/170417.563:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.735 [29788:14072:0504/170417.735:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.849 [29788:14072:0504/170417.848:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:17.996 [29788:14072:0504/170417.995:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.147 [29788:14072:0504/170418.147:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.261 [29788:14072:0504/170418.261:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.427 [29788:14072:0504/170418.427:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.579 [29788:14072:0504/170418.579:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.752 [29788:14072:0504/170418.752:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:18.867 [29788:14072:0504/170418.867:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.112 [29788:14072:0504/170419.112:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.259 [29788:14072:0504/170419.258:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.372 [29788:14072:0504/170419.372:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.533 [29788:14072:0504/170419.533:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.639 [29788:14072:0504/170419.639:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:19.773 [29788:14072:0504/170419.772:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.525 s for first_image_paint 0.478 s
+5월 04, 2023 17:04:20.93 [29788:14072:0504/170420.092:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+
+5월 04, 2023 21:20:36.628 NEW SESSION
+5월 04, 2023 21:20:36.628 [7540:19436:0504/212036.625:ERROR:device_event_log_impl.cc(222)] [21:20:36.625] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:20:36.629 [7540:19436:0504/212036.627:ERROR:device_event_log_impl.cc(222)] [21:20:36.627] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:20:37.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 04, 2023 21:23:46.141 [7540:19436:0504/212346.141:ERROR:device_event_log_impl.cc(222)] [21:23:46.142] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 04, 2023 21:23:46.147 [7540:19436:0504/212346.147:ERROR:device_event_log_impl.cc(222)] [21:23:46.147] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 04, 2023 21:23:46.278 [7540:19436:0504/212346.278:ERROR:device_event_log_impl.cc(222)] [21:23:46.278] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 04, 2023 21:23:46.286 [7540:19436:0504/212346.286:ERROR:device_event_log_impl.cc(222)] [21:23:46.286] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 04, 2023 21:24:57.886 [10828:16020:0504/212457.886:ERROR:device_event_log_impl.cc(222)] [21:24:57.886] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:24:57.890 [10828:16020:0504/212457.890:ERROR:device_event_log_impl.cc(222)] [21:24:57.889] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:24:57.999 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 04, 2023 21:26:05.605 [15056:29096:0504/212605.605:ERROR:device_event_log_impl.cc(222)] [21:26:05.605] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:26:05.608 [15056:29096:0504/212605.607:ERROR:device_event_log_impl.cc(222)] [21:26:05.607] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:26:05.722 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 04, 2023 21:26:35.509 [31904:24452:0504/212635.508:ERROR:device_event_log_impl.cc(222)] [21:26:35.509] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:26:35.512 [31904:24452:0504/212635.510:ERROR:device_event_log_impl.cc(222)] [21:26:35.511] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:26:35.636 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 04, 2023 21:27:25.432 [27204:23108:0504/212725.432:ERROR:device_event_log_impl.cc(222)] [21:27:25.433] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:27:25.434 [27204:23108:0504/212725.434:ERROR:device_event_log_impl.cc(222)] [21:27:25.435] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 04, 2023 21:27:25.564 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 04, 2023 21:47:54.567 [27204:33356:0504/214754.566:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 04, 2023 22:10:16.196 [27204:33356:0504/221016.196:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -109
+5월 08, 2023 15:30:18.37 [27204:23108:0508/153018.037:ERROR:device_event_log_impl.cc(222)] [15:30:18.037] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 15:30:18.45 [27204:23108:0508/153018.045:ERROR:device_event_log_impl.cc(222)] [15:30:18.045] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 15:30:18.167 [27204:23108:0508/153018.166:ERROR:device_event_log_impl.cc(222)] [15:30:18.166] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 15:30:18.172 [27204:23108:0508/153018.172:ERROR:device_event_log_impl.cc(222)] [15:30:18.172] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 15:30:18.908 [27204:33356:0508/153018.907:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 08, 2023 15:30:18.908 [27204:33356:0508/153018.908:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:18.908 [27204:33356:0508/153018.908:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:18.908 [27204:33356:0508/153018.908:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 08, 2023 15:30:18.909 [27204:33356:0508/153018.909:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:18.914 [27204:14136:0508/153018.914:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 08, 2023 15:30:19.416 [27204:33356:0508/153019.416:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 08, 2023 15:30:41.544 [27204:33356:0508/153041.543:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:43.22 [27204:33356:0508/153043.022:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:43.288 [27204:33356:0508/153043.288:ERROR:registration_request.cc(251)] Registration URL fetching failed.
+5월 08, 2023 15:30:48.56 [27204:33356:0508/153048.056:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 08, 2023 15:30:54.524 [27204:23108:0508/153054.524:ERROR:account_info_fetcher.cc(62)] OnGetTokenFailure: Connection failed (-106).
+5월 08, 2023 15:32:11.432 [27204:23108:0508/153211.431:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 08, 2023 15:32:14.997 [27204:23108:0508/153214.997:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 08, 2023 20:58:38.301 [27204:23108:0508/205838.300:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 08, 2023 20:58:38.301 [27204:23108:0508/205838.300:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+5월 08, 2023 21:42:39.828 [27204:23108:0508/214239.827:ERROR:device_event_log_impl.cc(222)] [21:42:39.828] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 21:42:39.836 [27204:23108:0508/214239.836:ERROR:device_event_log_impl.cc(222)] [21:42:39.835] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 21:42:39.944 [27204:23108:0508/214239.943:ERROR:device_event_log_impl.cc(222)] [21:42:39.943] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 08, 2023 21:42:39.953 [27204:23108:0508/214239.952:ERROR:device_event_log_impl.cc(222)] [21:42:39.952] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 08, 2023 21:48:27.202 [27204:33356:0508/214827.202:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 09, 2023 15:27:59.586 [27204:33356:0509/152759.586:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 09, 2023 15:28:01.606 [27204:33356:0509/152801.606:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 09, 2023 15:28:01.608 [27204:12956:0509/152801.608:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 09, 2023 15:28:23.205 [27204:33356:0509/152823.205:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 09, 2023 15:28:23.228 [27204:12956:0509/152823.228:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 09, 2023 15:28:34.660 [27204:33356:0509/152834.660:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 09, 2023 15:28:34.687 [27204:15568:0509/152834.687:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 09, 2023 15:28:37.854 [27204:33356:0509/152837.854:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 09, 2023 15:28:39.209 [27204:23108:0509/152839.208:ERROR:device_event_log_impl.cc(222)] [15:28:39.208] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 09, 2023 15:28:39.884 [27204:33356:0509/152839.884:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 09, 2023 15:29:05.746 [27204:23108:0509/152905.746:ERROR:device_event_log_impl.cc(222)] [15:29:05.745] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 09, 2023 15:29:05.755 [27204:23108:0509/152905.755:ERROR:device_event_log_impl.cc(222)] [15:29:05.754] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 09, 2023 15:29:11.411 [27204:23108:0509/152911.411:ERROR:device_event_log_impl.cc(222)] [15:29:11.411] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 09, 2023 15:29:11.440 [27204:23108:0509/152911.439:ERROR:device_event_log_impl.cc(222)] [15:29:11.439] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 09, 2023 19:46:43.971 [27204:33356:0509/194643.969:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 09, 2023 21:34:47.865 [27204:33356:0509/213447.865:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 09, 2023 21:34:53.353 [27204:33356:0509/213453.352:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 15:33:22.620 [27204:33356:0510/153322.620:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 10, 2023 15:33:22.623 [27204:33356:0510/153322.622:ERROR:checkin_request.cc(243)] Check-in request got net error: -106
+5월 10, 2023 15:33:22.630 [27204:15568:0510/153322.630:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 10, 2023 15:33:40.72 [27204:33356:0510/153340.072:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 10, 2023 15:33:58.599 [27204:23108:0510/153358.598:ERROR:device_event_log_impl.cc(222)] [15:33:58.598] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 10, 2023 15:33:58.605 [27204:23108:0510/153358.605:ERROR:device_event_log_impl.cc(222)] [15:33:58.605] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 10, 2023 15:34:02.416 [27204:23108:0510/153402.416:ERROR:device_event_log_impl.cc(222)] [15:34:02.417] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 10, 2023 15:34:02.427 [27204:23108:0510/153402.427:ERROR:device_event_log_impl.cc(222)] [15:34:02.427] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 10, 2023 15:35:23.400 [27204:23108:0510/153523.400:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 10, 2023 15:35:26.921 [27204:23108:0510/153526.921:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 10, 2023 17:00:03.191 [27204:33356:0510/170003.191:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 17:07:17.906 [27204:33356:0510/170717.906:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -7
+5월 10, 2023 18:16:35.741 [27204:33356:0510/181635.725:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 19:06:53.880 [27204:23108:0510/190653.879:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.54 [27204:23108:0510/190654.053:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.160 [27204:23108:0510/190654.159:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.261 [27204:23108:0510/190654.260:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.372 [27204:23108:0510/190654.371:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.475 [27204:23108:0510/190654.475:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.578 [27204:23108:0510/190654.578:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.680 [27204:23108:0510/190654.680:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.795 [27204:23108:0510/190654.794:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:54.935 [27204:23108:0510/190654.935:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:55.44 [27204:23108:0510/190655.044:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:55.245 [27204:23108:0510/190655.245:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:55.532 [27204:23108:0510/190655.532:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:55.635 [27204:23108:0510/190655.635:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:55.903 [27204:23108:0510/190655.903:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:56.124 [27204:23108:0510/190656.122:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:06:56.623 [27204:23108:0510/190656.623:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.996 s for first_image_paint 0.981 s
+5월 10, 2023 19:39:50.178 [27204:33356:0510/193907.798:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 20:31:45.352 [27204:33356:0510/203137.680:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 22:07:55.119 [27204:33356:0510/220755.118:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 10, 2023 22:07:55.230 [27204:33356:0510/220755.230:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 11, 2023 15:26:00.619 [27204:33356:0511/152600.619:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+5월 11, 2023 15:26:00.635 [27204:34512:0511/152600.635:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 11, 2023 15:26:18.951 [27204:33356:0511/152618.951:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -105
+5월 11, 2023 15:26:18.975 [27204:15796:0511/152618.974:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+5월 11, 2023 15:29:29.439 [27204:33356:0511/152929.439:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+5월 11, 2023 15:29:29.471 [27204:23108:0511/152929.471:ERROR:device_event_log_impl.cc(222)] [15:29:29.464] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 11, 2023 15:29:29.471 [27204:23108:0511/152929.471:ERROR:device_event_log_impl.cc(222)] [15:29:29.469] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 11, 2023 15:29:29.471 [27204:23108:0511/152929.471:ERROR:device_event_log_impl.cc(222)] [15:29:29.472] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+5월 11, 2023 15:29:29.486 [27204:23108:0511/152929.486:ERROR:device_event_log_impl.cc(222)] [15:29:29.476] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+5월 11, 2023 15:29:29.486 [27204:23108:0511/152929.486:ERROR:device_event_log_impl.cc(222)] [15:29:29.477] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 11, 2023 15:29:29.486 [27204:23108:0511/152929.486:ERROR:device_event_log_impl.cc(222)] [15:29:29.477] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+5월 11, 2023 15:33:45.217 [27204:23108:0511/153345.217:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 11, 2023 15:33:48.962 [27204:23108:0511/153348.962:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
