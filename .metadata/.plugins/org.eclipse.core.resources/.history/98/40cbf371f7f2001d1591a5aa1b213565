@@ -1,0 +1,5 @@
+package edu.kh.comm.chat.model.websocket;
+
+public class ChatWebsocketHandler {
+
+}
